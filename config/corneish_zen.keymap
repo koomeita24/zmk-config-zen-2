@@ -47,9 +47,9 @@
                          //&kp LGUI  &mo 1  &lt 3 SPACE    &lt 3 ENTER  &mo 2  &kp RALT
 
             bindings = <
-&mo5  &td0  &kp a  &kp u  &kp i  &kp o          &kp Y        &kp U  &kp I      &kp O    &kp P     &kp BSPC
-&mo3  &mo2  &kp h  &kp s  &kp d  &kp l          &kp H        &kp J  &kp K      &kp L    &kp SEMI  &kp SQT
-&mo4  &kp v &kp e  &kp n  &kp c  &kp t          &kp N        &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp ESC
+&mo5  &td0  &kp A  &kp U  &kp I  &kp O          &kp Y        &kp U  &kp I      &kp O    &kp P     &kp BSPC
+&mo3  &mo2  &kp H  &kp S  &kp D  &kp L          &kp H        &kp J  &kp K      &kp L    &kp SEMI  &kp SQT
+&mo4  &kp V &kp E  &kp N  &kp C  &kp T          &kp N        &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp ESC
                          &kp LGUI  &mo 1  &lt 3 SPACE    &lt 3 ENTER  &mo 2  &kp RALT
             >;
         };
@@ -68,9 +68,9 @@
 //                                         &trans             &trans            &trans             &kp INS          &kp DEL          &trans
 
             bindings = <
-&mo5  &td0  &kp q  &kp w  &kp r  &kp p          &kp Y        &kp U  &kp I      &kp O    &kp P     &kp BSPC
-&mo3  &mo2  &kp y  &kp j  &kp k  &kp f          &kp H        &kp J  &kp K      &kp L    &kp SEMI  &kp SQT
-&mo4  &kp g &kp b  &kp x  &kp m  &kp z          &kp N        &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp ESC
+&mo5  &td0  &kp Q  &kp W  &kp R  &kp P          &kp Y        &kp U  &kp I      &kp O    &kp P     &kp BSPC
+&mo3  &mo2  &kp Y  &kp J  &kp K  &kp F          &kp H        &kp J  &kp K      &kp L    &kp SEMI  &kp SQT
+&mo4  &kp G &kp B  &kp X  &kp M  &kp Z          &kp N        &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp ESC
                          &kp LGUI  &mo 1  &lt 3 SPACE    &lt 3 ENTER  &mo 2  &kp RALT
             >;
         };
